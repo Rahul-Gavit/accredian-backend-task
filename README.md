@@ -36,3 +36,5 @@ EMAIL_SENDER="your-email@example.com"
    ```
 
 Your backend should now be running successfully!
+
+By default, the referee's email ID is set to `EMAIL_SENDER` for testing purposes. You can use `EMAIL_SENDER=itsmerahulgavit@gmail.com`.
